@@ -1,18 +1,94 @@
-## Hi there 👋
+Here’s a clean, modern **GitHub Profile README** you can use and customize 👇
 
-My Name is Mengheng, I am a coder
+---
 
-<!--
-**hengputh52/hengputh52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Meng Heng
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
+💻 Front-End Developer (React.js)
+🚀 Passionate about building real-world web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+* 🔭 Currently working on: **Full Stack Book Marketplace**
+* 🌱 Learning: **Backend development, APIs, Cloud deployment**
+* 💡 Interested in: Web apps, UI/UX, and scalable systems
+* 🎯 Goal: Become a **Full Stack Developer & Software Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+* React.js
+* HTML5, CSS3
+* JavaScript (ES6+)
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+
+### 🗄️ Database
+
+* MySQL
+* Sequelize ORM
+
+### ☁️ Tools & Platforms
+
+* Git & GitHub
+* Cloudinary
+* DigitalOcean
+
+---
+
+## 📌 Projects
+
+### 📚 Book Marketplace App
+
+* Buy & sell books online
+* User authentication system
+* Cart & payment integration
+* Seller profile & reviews
+
+### 🚨 ResQNet (Disaster Response System)
+
+* Real-time event simulation
+* Resource management system
+* Map-based interface
+
+---
+
+## 📈 GitHub Stats
+
+```bash
+# Add this to show stats (optional)
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: your-linkedin-link
+* 🌐 Portfolio: your-portfolio-link
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building interactive systems and learning how real-world apps scale 🚀
+
+---
+
+## 🧠 Quote
+
+> “First, solve the problem. Then, write the code.”
+
+---
+
