@@ -67,27 +67,13 @@
 # Add this to show stats (optional)
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+![GitHub Stats](https://github.com/hengputh52/hengputh52)
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-linkedin-link
-* 🌐 Portfolio: your-portfolio-link
-
+* 📧 Email: (mailto:mheng770@gmail.com)
 ---
 
-## ⚡ Fun Fact
-
-I enjoy building interactive systems and learning how real-world apps scale 🚀
-
----
-
-## 🧠 Quote
-
-> “First, solve the problem. Then, write the code.”
-
----
 
