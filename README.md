@@ -1,12 +1,11 @@
-Here’s a clean, modern **GitHub Profile README** you can use and customize 👇
 
 ---
 
 # 👋 Hi, I'm Meng Heng
 
-🎓 Computer Science Student
-💻 Front-End Developer (React.js)
-🚀 Passionate about building real-world web applications
+* 🎓 Computer Science Student
+* 💻 Front-End Developer (React.js)
+* 🚀 Passionate about building real-world web applications
 
 ---
 
