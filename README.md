@@ -61,16 +61,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-```bash
-# Add this to show stats (optional)
-```
-
-![GitHub Stats](https://github.com/hengputh52/hengputh52)
-
----
-
 ## 📫 Connect With Me
 
 * 📧 Email: (mailto:mheng770@gmail.com)
